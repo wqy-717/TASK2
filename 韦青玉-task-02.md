@@ -232,7 +232,7 @@ public Transform 变量名;
 ```
 >变量为你想对准的对象
 ### 14.线性插值：Lerp函数  
->具体可见：第14点 <a href="[超链接地址](https://learn.u3d.cn/tutorial/beginner-gameplay-scripting?chapterId=63562b29edca72001f21d179#60405ee029cbbf0021dda603)" target="_blank">线性插值</a>
+>具体可见：第14点 [C#初级编程]（https://learn.u3d.cn/tutorial/beginner-gameplay-scripting?chapterId=63562b29edca72001f21d179#60406191141da10020320549""）
 Mathf.Lerp函数：接受3个float参数：起始值、结束值、距离  
 e.g：``` float result = Mathf.Lerp (3f, 5f, 0.5f);//result=4```  
 >Color.Lerp 和 Vector3.Lerp使用方法完全相同。
